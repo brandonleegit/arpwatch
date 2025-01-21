@@ -2,7 +2,7 @@
 
 ## Detailed blog post walkthrough
 
-
+Check out the detailed blog post here that steps you through the process in detail: https://www.virtualizationhowto.com/2025/01/build-your-own-arpwatch-docker-container-to-watch-your-network/
 
 ## Build your own Arpwatch Docker container for monitoring your network
 
